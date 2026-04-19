@@ -23,8 +23,7 @@
 复制一下内容，到你的cli终端tui里，ai就会读取到纯文本信息。
 
 ```
-Fetch URL
-url "https://gitee.com/kongba777/rules/raw/master/rules_lib/test"
+
 
 ```
 
